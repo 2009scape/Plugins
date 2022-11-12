@@ -1,3 +1,5 @@
+## Note: These are not Client Plugins for 2009scape.org. If you're looking for the Client Plugins, see https://gitlab.com/2009scape/tools/client-plugins
+
 # Plugins
 Plugins compatible with 2009scape
 
